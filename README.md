@@ -1,4 +1,4 @@
-# Basic E-COMMERCE WEBSITE
+# Basic E-COMMERCE WEBSITE (College Assignment)
 
 A simple e-commerce website repository designed to demonstrate core online shopping features. This project is ideal for learning the basics of creating, managing, and deploying a web-based storefront.
 
